@@ -58,4 +58,10 @@ RIGHT<br>
 RIGHT<br>
 CLEAR<br>
 <br><br>
-<b>Note: </b>The solutions have been tested on Visual Studio 2013 Comunity Edition, we need to do some simple changes to make them compilable on HackerRank.
+
+The Bidding Game:
+=================
+This soultion solved this challenge<br>
+https://www.hackerrank.com/challenges/the-bidding-game (Moderate)<br>
+
+<b>Note: </b>All the solutions have been compiled successfully on HackerRank.<br>
