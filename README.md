@@ -1,3 +1,10 @@
+Group Members:
+==============
+- Alex Lee Jen Fung / 110035647
+- Mouhanad Al-Shmali
+- Liu Jia Ming / 
+- Yahia Sweid / 110036236
+
 Bot Saves Princess:
 ===================
 This solution solved two challenges<br>
