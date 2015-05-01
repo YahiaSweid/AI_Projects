@@ -1,8 +1,8 @@
 Group Members:
 ==============
 - Alex Lee Jen Fung / 110035647
-- Mouhanad Al-Shmali
-- Liu Jia Ming / 
+- Liu Jia Ming / 110036157
+- Mouhanad Al-Shmali / 110035623
 - Yahia Sweid / 110036236
 
 Bot Saves Princess:
@@ -64,4 +64,4 @@ The Bidding Game:
 This soultion solved this challenge<br>
 https://www.hackerrank.com/challenges/the-bidding-game (Moderate)<br>
 
-<b>Note: </b>All the solutions have been compiled successfully on HackerRank.<br>
+<b>Note: </b>All the solutions have been compiled on HackerRank.<br>
